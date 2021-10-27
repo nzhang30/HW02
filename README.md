@@ -4,10 +4,10 @@
 
 ---
 
-## Graph 1: Graph of Population China (2002-2015)
-![Line Graph of China Popoulation from 2002-2015](https://github.com/nzhang30/HW02/blob/main/population_china.jpg).
+## Graph 1: Graph of Population China (2002-2013)
+![Line Graph of China Popoulation from 2002-2013](https://github.com/nzhang30/HW02/blob/main/population_china.jpg).
 
-This graph of China population since 1900 highlights the high population growth that China experienced within the first decade of the 20th century. Between 2002 and 2015, China's population grew around 6.5%, with a total population of 1.37 Billion in 2015.
+This graph of China population since 1900 highlights the high population growth that China experienced within the first decade of the 20th century. Between 2002 and 2013, China's population grew around 6.5%, with a total population of 1.36 Billion in 2013.
 
 Data on Population of China per year can be found [here](https://github.com/antvis/data-set/blob/master/test/fixtures/population-china.csv).
 
