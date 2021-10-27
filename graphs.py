@@ -90,10 +90,7 @@ x3 = data[148][1]
 countries.append(x3)
 x4 = data[177][1]
 countries.append(x4)
-x5 = data[206][1]
-countries.append(x5)
-x6 = data[235][1]
-countries.append(x6)
+
     
 # density
 y1 = int(float(data[90][4]))
@@ -104,10 +101,6 @@ y3 = int(float(data[148][4]))
 density.append(y3)
 y4 = int(float(data[177][4]))
 density.append(y1)
-y5 = int(float(data[206][4]))
-density.append(y2)
-y6 = int(float(data[235][4]))
-density.append(y3)
 
 
 # plot bar graph
