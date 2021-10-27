@@ -1,6 +1,6 @@
 # HW02
  # Nick's Visualization of Data on Population
-**Below is information on the population of the People's Republic of China from 2002-2015. 
+**Below is information on the population of the People's Republic of China from 2002-2013. 
 
 ---
 
