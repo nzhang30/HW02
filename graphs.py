@@ -37,29 +37,29 @@ year.append(x12)
 
 
 # population
-y1 = data[1][1]
+y1 = int(data[1][1])
 population.append(y1)
-y2 = data[2][1]
+y2 = int(data[2][1])
 population.append(y2)
-y3 = data[3][1]
+y3 = int(data[3][1])
 population.append(y3)
-y4 = data[4][1]
+y4 = int(data[4][1])
 population.append(y4)
-y5 = data[5][1]
+y5 = int(data[5][1])
 population.append(y5)
-y6 = data[6][1]
+y6 = int(data[6][1])
 population.append(y6)
-y7 = data[7][1]
+y7 = int(data[7][1])
 population.append(y7)
-y8 = data[8][1]
+y8 = int(data[8][1])
 population.append(y8)
-y9 = data[9][1]
+y9 = int(data[9][1])
 population.append(y9)
-y10 = data[10][1]
+y10 = int(data[10][1])
 population.append(y10)
-y11 = data[11][1]
+y11 = int(data[11][1])
 population.append(y11)
-y12 = data[12][1]
+y12 = int(data[12][1])
 population.append(y12)
 
 
