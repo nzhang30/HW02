@@ -106,7 +106,7 @@ density.append(y1)
 # plot bar graph
 plt.bar(countries, density, color = 'b')
 plt.xlabel('Country', fontweight='bold')
-plt.ylabel('Population Density', fontweight='bold')
+plt.ylabel('Population Density (Ppl/square mile)', fontweight='bold')
 plt.legend()
 plt.savefig('Population_density_Africa.jpg')
 plt.show()
