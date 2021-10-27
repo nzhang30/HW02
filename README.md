@@ -5,7 +5,7 @@
 ---
 
 ## Graph 1: Graph of Population China (2002-2015)
-![Line Graph of China Popoulation from 2002-2015]().jpg)
+![Line Graph of China Popoulation from 2002-2015](https://github.com/nzhang30/HW02/blob/main/population_china.jpg).
 
 This graph of China population since 1900 highlights the high population growth that China experienced within the first decade of the 20th century. Between 2002 and 2015, China's population grew around 6.5%, with a total population of 1.37 Billion in 2015.
 
@@ -13,7 +13,7 @@ Data on Population of China per year can be found [here](https://github.com/antv
 
 
 ## Graph 2: Comparing Population Density of Different Regions of Africa vs Americas in 2019
-![Bar Chart of Population Density in Africa (2019)](.jpg)
+![Bar Chart of Population Density in Africa (2019)](https://github.com/nzhang30/HW02/blob/main/Population_density_Africa.jpg).
 
 Population density is an important measure of settlement intensity across a specific geographic region. It tells us the average measurement of population in a given area. Population density is a measurement of population per unit area, or exceptionally unit volume; it is a quantity of type number density. This graph allows me to compare the population density of the various regions of the African continent. 
 
